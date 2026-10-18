@@ -1,14 +1,23 @@
 {
- "version": "v4.46",
+ "version": "v4.47",
  "date": "2026-10-18",
  "notes": [
-  "Test update - nothing changed except the version number.",
-  "If you can read this, automatic updates work."
+  "New: Perks Level Rewards collection (green Claim buttons).",
+  "New: Rank - Claim Pay collection.",
+  "New: stuck-run watchdog (reloads the game and retries the rest).",
+  "New: run report box after every run + LAST REPORT button."
  ],
  "base": "v4.45",
  "files": {
-  "README.txt": "2d67ff13796b3dfa88d910fd5b94cf1ab139bbcb9f92892a1e65de85afd7b9a8",
-  "nova_bot.py": "dba51c003d69fa7a825faeacc8f7794997db4269531303d6d8d9b5f6c8bb6ab2"
+  "tasks_def.py": "2c31bccc0c324715f1d5debdab84c4e88dbd6b4927f5aac6cafdfd3f6c50bd09",
+  "README.txt": "307734d592b5df5f5e8f82b180e72fd5a9432471f66208e462a94336e60e5f1c",
+  "nova_bot.py": "71f4729245aa9788e0ae7f7609e52c6cef1f01e4faad3a40c1adcce9333e4800",
+  "updater.py": "8f0cd3dc84e434e2ec066798a2e535b75941c83f1467d3adbe86aea9d2042780",
+  "templates/rank_claimpay.png": "0dd2da401192588930eadb40cef8ed34e27b4422ca815668077e986f35713a4b",
+  "templates/menu_level_rewards.png": "a8d96bd1b336fb515153a6321408beff494e7455454aef1a3c7889ba918f248f",
+  "templates/rank_title.png": "0485e4a333bdf19adddc95cac402d918addf9f46d5e9bc82f506b567d3be2443",
+  "templates/meta.json": "c29dc979644e8562a1a6edfbf6cf142719a1fb83866194d8da3deb5689a38b7c",
+  "templates/char_title.png": "3639335e9582c6747908182a25fcba1a828dc429dacbd4fa859e3cbcc1430658"
  },
  "delete": []
 }
