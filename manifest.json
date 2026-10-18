@@ -1,10 +1,14 @@
 {
- "version": "v4.45",
+ "version": "v4.46",
  "date": "2026-10-18",
  "notes": [
-  "Online updates enabled."
+  "Test update - nothing changed except the version number.",
+  "If you can read this, automatic updates work."
  ],
  "base": "v4.45",
- "files": {},
+ "files": {
+  "README.txt": "2d67ff13796b3dfa88d910fd5b94cf1ab139bbcb9f92892a1e65de85afd7b9a8",
+  "nova_bot.py": "dba51c003d69fa7a825faeacc8f7794997db4269531303d6d8d9b5f6c8bb6ab2"
+ },
  "delete": []
 }
