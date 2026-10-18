@@ -1,0 +1,10 @@
+{
+ "version": "v4.45",
+ "date": "2026-10-18",
+ "notes": [
+  "Online updates enabled."
+ ],
+ "base": "v4.45",
+ "files": {},
+ "delete": []
+}
