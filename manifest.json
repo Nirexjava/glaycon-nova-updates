@@ -1,22 +1,23 @@
 {
- "version": "v4.47",
- "date": "2026-10-18",
+ "version": "v4.48",
+ "date": "2026-10-19",
  "notes": [
-  "New: Perks Level Rewards collection (green Claim buttons).",
-  "New: Rank - Claim Pay collection.",
-  "New: stuck-run watchdog (reloads the game and retries the rest).",
-  "New: run report box after every run + LAST REPORT button."
+  "Fix: the game's new gold Login button is now recognised (RUN NOW no longer waits at the login page).",
+  "The bot checks the screen: ad-bar arrow only if Enter Game shows; Login / Enter Game are pressed as soon as seen.",
+  "Includes v4.47: Level Rewards, Rank Claim Pay, stuck-run watchdog, run report box.",
+  "Update safety: confirms start sooner, rollback note shown once."
  ],
  "base": "v4.45",
  "files": {
   "tasks_def.py": "2c31bccc0c324715f1d5debdab84c4e88dbd6b4927f5aac6cafdfd3f6c50bd09",
-  "README.txt": "307734d592b5df5f5e8f82b180e72fd5a9432471f66208e462a94336e60e5f1c",
-  "nova_bot.py": "71f4729245aa9788e0ae7f7609e52c6cef1f01e4faad3a40c1adcce9333e4800",
-  "updater.py": "8f0cd3dc84e434e2ec066798a2e535b75941c83f1467d3adbe86aea9d2042780",
+  "README.txt": "6c1d48875d411ac50cbc6bcb51e12d4f93bfa8d0a3f82b700056e39e16c4dd8d",
+  "nova_bot.py": "31f167ed35af31b4aed23ece057458df60aa34a60cd449fc93373c35d647a05c",
+  "updater.py": "835b3793938f875f17e2eb9471bf793632f86d5fea7ab2b1b3a844191e715ff4",
   "templates/rank_claimpay.png": "0dd2da401192588930eadb40cef8ed34e27b4422ca815668077e986f35713a4b",
   "templates/menu_level_rewards.png": "a8d96bd1b336fb515153a6321408beff494e7455454aef1a3c7889ba918f248f",
   "templates/rank_title.png": "0485e4a333bdf19adddc95cac402d918addf9f46d5e9bc82f506b567d3be2443",
-  "templates/meta.json": "c29dc979644e8562a1a6edfbf6cf142719a1fb83866194d8da3deb5689a38b7c",
+  "templates/login_gold.png": "ed2895a643e886242511e2d09865da3dc2de97e4762bc971379a9abddfd0c685",
+  "templates/meta.json": "5381e00765b1e0f4b84d311a95020bc54d6764909bb9022ad9f2edf331875498",
   "templates/char_title.png": "3639335e9582c6747908182a25fcba1a828dc429dacbd4fa859e3cbcc1430658"
  },
  "delete": []

@@ -1,0 +1,290 @@
+{
+ "login_button": {
+  "dx": 0,
+  "dy": 0,
+  "w": 460,
+  "h": 61
+ },
+ "ad_arrow": {
+  "dx": 0,
+  "dy": 0,
+  "w": 33,
+  "h": 19
+ },
+ "icon_perks": {
+  "dx": -1,
+  "dy": -20,
+  "w": 71,
+  "h": 50
+ },
+ "icon_privileges": {
+  "dx": -2,
+  "dy": -20,
+  "w": 89,
+  "h": 50
+ },
+ "icon_shop": {
+  "dx": 0,
+  "dy": -20,
+  "w": 69,
+  "h": 50
+ },
+ "menu_monthly": {
+  "dx": 0,
+  "dy": 0,
+  "w": 240,
+  "h": 123
+ },
+ "menu_deals": {
+  "dx": 0,
+  "dy": 0,
+  "w": 166,
+  "h": 119
+ },
+ "menu_daily_limit": {
+  "dx": 0,
+  "dy": 0,
+  "w": 294,
+  "h": 73
+ },
+ "shop_goldpack": {
+  "dx": 0,
+  "dy": 0,
+  "w": 278,
+  "h": 230
+ },
+ "purchase_btn": {
+  "dx": 0,
+  "dy": 0,
+  "w": 725,
+  "h": 143
+ },
+ "gold_tooltip": {
+  "dx": 0,
+  "dy": 0,
+  "w": 290,
+  "h": 68
+ },
+ "menu_login_rewards": {
+  "dx": 0,
+  "dy": 0,
+  "w": 225,
+  "h": 115
+ },
+ "menu_online_bonus": {
+  "dx": 0,
+  "dy": 0,
+  "w": 220,
+  "h": 125
+ },
+ "checkin_btn": {
+  "dx": 0,
+  "dy": 0,
+  "w": 277,
+  "h": 94
+ },
+ "claim_diamond": {
+  "dx": 0,
+  "dy": 0,
+  "w": 269,
+  "h": 96
+ },
+ "notice_close": {
+  "dx": 0,
+  "dy": 0,
+  "w": 68,
+  "h": 72
+ },
+ "r2_login_tab": {
+  "dx": 0,
+  "dy": 0,
+  "w": 232,
+  "h": 118
+ },
+ "r2_claim_today": {
+  "dx": 0,
+  "dy": 0,
+  "w": 372,
+  "h": 89
+ },
+ "menu_afk_bonus": {
+  "dx": 0,
+  "dy": 0,
+  "w": 220,
+  "h": 125
+ },
+ "icon_pettheme": {
+  "dx": 0,
+  "dy": -30,
+  "w": 64,
+  "h": 46
+ },
+ "pet_claimall": {
+  "dx": 0,
+  "dy": 0,
+  "w": 230,
+  "h": 60
+ },
+ "pet_tab_battlepass": {
+  "dx": 0,
+  "dy": 0,
+  "w": 355,
+  "h": 85
+ },
+ "money_activate": {
+  "dx": 0,
+  "dy": 0,
+  "w": 394,
+  "h": 115
+ },
+ "money_unlock": {
+  "dx": 0,
+  "dy": 0,
+  "w": 393,
+  "h": 115
+ },
+ "icon_daily": {
+  "dx": 0,
+  "dy": -22,
+  "w": 66,
+  "h": 42
+ },
+ "icon_limited": {
+  "dx": 0,
+  "dy": -30,
+  "w": 99,
+  "h": 40
+ },
+ "pet_tab_battlepass_on": {
+  "dx": 0,
+  "dy": 0,
+  "w": 350,
+  "h": 65
+ },
+ "icon_slayer": {
+  "dx": 0,
+  "dy": -25,
+  "w": 75,
+  "h": 44
+ },
+ "settings_title": {
+  "dx": 0,
+  "dy": 0,
+  "w": 379,
+  "h": 115
+ },
+ "slayer_spin1": {
+  "dx": 0,
+  "dy": 0,
+  "w": 313,
+  "h": 103
+ },
+ "slayer_skip": {
+  "dx": 0,
+  "dy": 0,
+  "w": 390,
+  "h": 57
+ },
+ "icon_pettheme_b": {
+  "dx": -5,
+  "dy": -27,
+  "w": 72,
+  "h": 34
+ },
+ "icon_limited_b": {
+  "dx": -1,
+  "dy": -27,
+  "w": 90,
+  "h": 34
+ },
+ "valley_priest": {
+  "dx": 0,
+  "dy": 0,
+  "w": 240,
+  "h": 53
+ },
+ "valley_opt1": {
+  "dx": 0,
+  "dy": 0,
+  "w": 678,
+  "h": 80
+ },
+ "valley_opt2": {
+  "dx": 0,
+  "dy": 0,
+  "w": 330,
+  "h": 80
+ },
+ "valley_enter": {
+  "dx": 0,
+  "dy": 0,
+  "w": 155,
+  "h": 50
+ },
+ "valley_open": {
+  "dx": 0,
+  "dy": 0,
+  "w": 152,
+  "h": 48
+ },
+ "revive_btn": {
+  "dx": 0,
+  "dy": 0,
+  "w": 355,
+  "h": 123
+ },
+ "accept_revive": {
+  "dx": 0,
+  "dy": 0,
+  "w": 355,
+  "h": 120
+ },
+ "revive_spot": {
+  "dx": 0,
+  "dy": 0,
+  "w": 355,
+  "h": 120
+ },
+ "notice_limit": {
+  "dx": 0,
+  "dy": 0,
+  "w": 500,
+  "h": 75
+ },
+ "notice_confirm": {
+  "dx": 0,
+  "dy": 0,
+  "w": 400,
+  "h": 110
+ },
+ "menu_level_rewards": {
+  "dx": 0,
+  "dy": 0,
+  "w": 139,
+  "h": 65
+ },
+ "char_title": {
+  "dx": 0,
+  "dy": 0,
+  "w": 210,
+  "h": 47
+ },
+ "rank_title": {
+  "dx": 0,
+  "dy": 0,
+  "w": 110,
+  "h": 40
+ },
+ "rank_claimpay": {
+  "dx": 0,
+  "dy": 0,
+  "w": 142,
+  "h": 41
+ },
+ "login_gold": {
+  "dx": 0,
+  "dy": 0,
+  "w": 238,
+  "h": 85
+ }
+}
